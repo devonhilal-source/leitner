@@ -1,0 +1,6 @@
+{
+  "name": "Leitner OS - Spaced Repetition Learning System",
+  "description": "Precision Leitner spaced repetition flashcard platform with dynamic intervals, learning analytics, and curricula management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
